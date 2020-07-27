@@ -10,6 +10,24 @@ a {
   color: inherit;
 }
 
+.topnotice {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  padding: 2em 0 2em 0;
+  width: 748px;
+  border-top: 67px solid #0C4762;
+  border-left: 67px solid #0C4762;
+  border-right: 67px solid #0C4762;
+}
+
+.topnotice h1 {
+  font-family: Montserrat;
+}
+
+.topnotice h2 {
+  font-family: Montserrat;
+}
+
 .cover {
   text-align: center;
   margin: 0em auto 0em auto;
